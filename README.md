@@ -61,7 +61,7 @@
 
 ---
 
-## 🌙 Beyond Code
+🌙 Beyond Code
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/850a6456b550bbeec8436df243ca5d71.png" width="100%" height="500" style="object-fit: cover;" />
@@ -87,7 +87,6 @@
 > 我想把它们写在一起
 
 * 喜欢在安静的时候写代码
-* 也喜欢用相机记录光和影
 * 希望做出 **有温度的技术产品**
 
 ---
