@@ -64,9 +64,9 @@
 
 ---
 
-## 🐍 Contribution Snake (动态彩蛋)## 🐍 Contribution Snake (Dynamic Easter Egg)
+🐍 Contribution Snake (Dynamic Easter Egg)
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)!
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 ⭐️ Thanks for visiting.   感谢您的来访。
