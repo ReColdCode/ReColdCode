@@ -1,71 +1,82 @@
-# 👋 Hi, I'm Xianhui
+# 👋 Hi, I'm Xianhui   👋嗨，我是仙慧
 
-> 🌿 “记录技术，也记录生活的温度。”
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 Computer Science Student
-* 💡 Interested in **AI Agents / RAG / Backend Engineering**
-* 📷 Love **photography & capturing quiet moments**
-* 🌱 Currently learning: `LangGraph` / `LLM Applications`
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Backend+Learner;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=18">
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me   ##🧑&zwj；💻关于我
 
-### 🔹 AI RAG Assistant
+* 🎓 Computer Science Student* 🎓 计算机科学专业学生
+* 💡 Focus on **RAG / AI Agents / Backend Engineering**
+* 📷 Love capturing quiet moments through photography
+* 🌱 Currently learning: `LangGraph` / `LLM Applications`🌱 当前学习内容：`语言图谱` / `大语言模型应用`
 
-> 基于 LangChain + 向量数据库的知识问答系统
+---
+
+## 🚀 Featured Projects   ## 🚀 精选项目
+
+### 🔹 AI RAG Assistant   ### 🔹 AI RAG 助手
+
+> 基于 LangChain + 向量数据库的智能问答系统
 
 * ✅ 多轮对话
 * ✅ 动态知识库构建
-* ✅ 前端界面（FastAPI + HTML）
-
-👉 *正在持续优化中...*
+* ✅ 前后端一体（FastAPI）
 
 ---
 
-### 🔹 (你的下一个大项目)
+### 🔹 Next Project (In Progress)
 
-> LangGraph + Tool + Agent 系统（规划中）> LangGraph Tool Agent System (Under Planning)
+> LangGraph + Tool + Multi-Agent System
 
-* 🔄 多 Agent 协作
-* 🔧 Tool 调用能力
+* 🔄 Agent 协作
+* 🔧 Tool 调用
 * 🧠 更接近真实 AI 助手
 
 ---
 
 ## 🛠 Tech Stack   ##推荐技术栈
 
-```text   ' ' '文本
-Backend:   Java / Python / FastAPI  后端：Java / Python / FastAPI
-AI Stack:  LangChain / LangGraph / OpenAI API  
-Database:  MySQL / Redis / Vector DB  数据库：MySQL / Redis / 向量数据库
-Tools:     Git / Docker  工具：Git / Docker
-```
+<p>   < p>
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,mysql,redis,docker,git" /><img src="https://skillicons.dev/icons?i=python,java,fastapi,mysql,redis,docker,git" />   /比;
+</p>   < / p>
 
 ---
 
-## 📊 GitHub Stats   ##📊GitHub统计
+## 📊 GitHub Stats (动态)   ## 📊 GitHub Stats (Updates)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=default\&hide_border=true)![GitHub 统计](https://github-readme-stats.vercel.app/api?username=your-username\&；show_icons=true\&；theme=default\&；hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReColdCode&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReColdCode&layout=compact&hide_border=true" height="150"/>
+</p>   < / p>
+
+---
+
+## 🔥 Contribution Graph (动态)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ReColdCode\&theme=minimal)
 
 ---
 
 ## 🌙 A Little More About Me## 🌙 再多说一点关于我的事
 
-* 我喜欢在安静的时候写代码
-* 也喜欢用相机记录一些不被注意的瞬间
-* 希望能做出 **有温度的技术产品**
+> 有些东西是代码，有些东西是生活
+> 我想把它们写在一起
+
+* 喜欢在安静的时候写代码
+* 也喜欢用相机记录光和影
+* 希望做出 **有温度的技术产品**
 
 ---
 
-## 📫 Contact   ##📫联系方式
+## 🐍 Contribution Snake (动态彩蛋)
 
-* 📮 Email: [your-email@example.com](mailto:your-email@example.com)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐️ *Thanks for visiting my profile.*感谢您访问我的个人资料。
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=grey"/>
+</p>   < / p>
+
+⭐️ Thanks for visiting.
