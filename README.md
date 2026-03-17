@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=RAG+Engineer;LangGraph+Learner;JAVA+Engineer;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
 </p>
+ <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ReColdCodeL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+</p>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
