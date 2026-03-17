@@ -1,13 +1,20 @@
+<!-- 个人简介 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕之外，才是生活的答案;Building+Warm+AI+Systems;RAG+%7C+Agent+Developer&center=true&size=26">
+</div>
+
+<h3 align="center">
+ 一名专注于RAG & Agent系统的后端开发者
+</h3>
+<br/>
 <p align="center">
-   <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/微信图片_20260317195100_328_154.jpg" width="40%" />
+   <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/微信图片_20260317195100_328_154.jpg" width="50%" />
 </p>
 
 <p align="center">
   🌿 Building warm tech with AI
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=RAG+Engineer;LangGraph+Learner;JAVA+Engineer;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
-</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReColdCode&&color=orange&style=flat" />
 </p>
