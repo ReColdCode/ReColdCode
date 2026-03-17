@@ -53,17 +53,15 @@
 ---
 
  📊 GitHub Stats 
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ReColdCode&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReColdCode&layout=compact&hide_border=true" height="150"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReColdCode&theme=minimal"/>
+
+  </p>
 
 ---
 
-🔥 Contribution Graph (Activity)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ReColdCode\&theme=minimal)
-
----
 
 🌙 A Little More About Me
 
