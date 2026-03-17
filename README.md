@@ -1,6 +1,6 @@
 <!-- 个人简介 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕之外，才是生活的答案;Building+Warm+AI+Systems;RAG+%7C+Agent+Developer&center=true&size=26">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕之外，才是生活的答案;Building+Warm+AI+Systems;RAG+%7C+Agent+Developer&center=true&size=26&color=999999">
 </div>
 
 <h3 align="center">
