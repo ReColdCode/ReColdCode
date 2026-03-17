@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="280"/>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="450"/>
   </picture>
 </p>
 
@@ -13,7 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=RAG+Engineer;LangGraph+Learner;JAVA+Engineer;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
 </p>
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
 
 🧑‍💻 About Me   
 
@@ -34,7 +37,7 @@
 
 ---
 
-🔹下一个项目（进行中）
+🔹Next Project (In Progress)
 
 > LangGraph + Tool + Multi-Agent System语言图工具 多智能体系统
 
