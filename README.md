@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/850a6456b550bbeec8436df243ca5d71.png" width="80%" />
-</p>
 
 <p align="center">
   <picture>
