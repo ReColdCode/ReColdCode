@@ -1,5 +1,3 @@
-
-
 <h1 align="center"></h1>
 
 <p align="center">
@@ -11,12 +9,11 @@
 <p align="center">
   🌿 Building warm tech with AI
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Backend+Learner;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=RAG+Engineer;LangGraph+Learner;JAVA+Engineer;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
 </p>
 
----
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 🧑‍💻 About Me   
 
@@ -37,7 +34,7 @@
 
 ---
 
-🔹 Next Project (In Progress)### 🔹 下一个项目（进行中）
+🔹下一个项目（进行中）
 
 > LangGraph + Tool + Multi-Agent System语言图工具 多智能体系统
 
@@ -75,10 +72,6 @@
 * 希望做出 **有温度的技术产品**
 
 ---
-
-🐍 Contribution Snake (Dynamic Easter Egg)
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 ⭐️ Thanks for visiting.   感谢您的来访。
