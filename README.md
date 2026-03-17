@@ -66,9 +66,7 @@
 
 ## 🐍 Contribution Snake (动态彩蛋)## 🐍 Contribution Snake (Dynamic Easter Egg)
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)![蛇的动图](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)!
 
----
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=grey"/><img src="https://komarev.com/ghpvc/?username=your-username&color=grey"/>   /比;
 
 ⭐️ Thanks for visiting.   感谢您的来访。
