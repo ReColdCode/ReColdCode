@@ -1,8 +1,5 @@
-
 <p align="center">
-  <picture>
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="450"/>
-  </picture>
+   <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/微信图片_20260317195100_328_154.jpg" width="40%" />
 </p>
 
 <p align="center">
@@ -63,6 +60,25 @@
   </p>
 
 ---
+
+## 🌙 Beyond Code
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/850a6456b550bbeec8436df243ca5d71.png" width="100%" height="500" style="object-fit: cover;" />
+  <br/>
+ 🥷:Charles Oliveira 
+  <br/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/微信图片_20260317194958_327_154.jpg" width="100%" height="500" style="object-fit: cover;" />
+  <br/>
+  🎧:Jay Chou
+  <br/>
+</p>
+
+
+
 
 
 🌙 A Little More About Me
