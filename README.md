@@ -6,15 +6,13 @@
 
 🧑‍💻 About Me   
 
-* 🎓 Computer Science Student* * 🎓 计算机科学专业学生*
-* 💡 Focus on **RAG / AI Agents / Backend Engineering*** 💡 专注于 **检索增强生成（RAG）/ AI 代理 / 后端工程**
-* 📷 Love capturing quiet moments through photography喜欢通过摄影捕捉宁静的瞬间
-* 🌱 Currently learning: `LangGraph` / `LLM Applications`🌱 当前学习内容：`语言图谱` / `大语言模型应用`
+🎓 计算机科学专业学生*
+💡 专注于 **检索增强生成（RAG）/ AI 代理 / 后端工程**
+🌱 当前学习内容：`语言图谱` / `大语言模型应用`
 
 ---
 
 🚀 Featured Projects  
-
 🔹 AI RAG Assistant 
 
 > 基于 LangChain + 向量数据库的智能问答系统
