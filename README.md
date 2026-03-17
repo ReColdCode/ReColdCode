@@ -1,4 +1,6 @@
-<h1 align="center"></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReColdCode/ReColdCode/main/assets/850a6456b550bbeec8436df243ca5d71.png" width="80%" />
+</p>
 
 <p align="center">
   <picture>
@@ -12,8 +14,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=RAG+Engineer;LangGraph+Learner;JAVA+Engineer;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
 </p>
- <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=ReColdCodeL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ReColdCode&&color=orange&style=flat" />
 </p>
 
 <p align="center">
