@@ -1,6 +1,20 @@
-👋 Hi,   👋你好,
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Backend+Learner;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=18">
+
+<h1 align="center"></h1>
+
+<p align="center">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="280"/>
+  </picture>
+</p>
+
+<p align="center">
+  🌿 Building warm tech with AI
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Backend+Learner;RAG+%7C+Agent+Developer;Building+Warm+Tech&center=true&size=20&color=999999">
+</p>
 
 ---
 
